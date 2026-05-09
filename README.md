@@ -4,6 +4,8 @@ title: Ryan Jensen: Software Engineer
 description: Software Engineer, tinkerer, and builder of things that work for a long time.
 ---
 
+![Jensen Family](family.jpeg)
+
 # Hey, I'm Ryan
 
 I'm a software engineer based in **West Des Moines, Iowa** with a career spent building, breaking, fixing, and shipping software across a wild range of tech stacks. I currently wear two hats: one as a **Software Consultant at [Source Allies](https://www.sourceallies.com/)**, and the other as the entire IT department for **[Patient Preferred Services](https://patientpreferredservices.com/)**, a medical clinic payment and patient management platform.
